@@ -1,0 +1,57 @@
+.modall{
+    top:32%;
+    left:40%;
+    position: fixed;
+    border: 1px solid black;
+    padding: 5px 30px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+.front-hide{
+    display: none;
+}
+
+.card{
+        border: 1px solid black;
+    width: 340px;
+    margin-left: 409px;
+    margin-top: 30px; 
+}
+
+.sidebars{
+	border: 1px solid cyan;
+	width: 25%;
+	float: left;
+    height: 750px;
+    background-color: cyan;
+    padding-left: 18px;
+}
+
+.linksTop{
+	display: inline;
+	margin-left: 335px;
+}
+
+.toolbar{
+    border: 1px solid blue;
+    padding: 4px;
+    background-color: darkorchid;
+}
+
+.newDeck{
+	display: inline;
+	margin-left: 10px;
+}
+
+.btn{
+    color: white;
+    border: 1px solid;
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+textarea{
+    width: 320px;
+    height: 70px;
+}
